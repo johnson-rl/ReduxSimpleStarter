@@ -1,3 +1,5 @@
+*This is the youtube app made from Stephen Grider's Simple Starter*
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
