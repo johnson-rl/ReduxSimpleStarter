@@ -7,3 +7,20 @@ console.log('minutes: ' + min + ' seconds: ' + sec%60)
 ///////////////
 //// NOTES ////
 ///////////////
+
+// reduxform takes over control of inputs, in fact it takes control of the submission of the entire form
+//  -also gives rules for how a form should be set up and handled
+
+// Redux-form object
+// {
+//   handleSubmit: function,
+//   fields: {
+//     title: {},
+//     categories: {},
+//     content: {}
+//   }
+// }
+
+
+// context - passed from parent compoent to child, but not deliberate. passed automatically.
+// CONTEXT SHOULD NOT BE ABUSED MIGHT BE CHANGE IN FUTURE VERSIONS
